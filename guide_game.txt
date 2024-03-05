@@ -1,0 +1,10 @@
+Khởi động game bằng cách chạy file GameFPS.py
+
+Trong game
+
+W: Nhảy lên
+D: Sang phải
+A: Sang trái
+
+P: Nạp đạn
+Space: Bắn
